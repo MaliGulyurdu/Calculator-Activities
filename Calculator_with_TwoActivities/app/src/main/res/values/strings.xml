@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculator_with_TwoActivities</string>
+    <string name="first_number">Enter first number</string>
+    <string name="second_number">Enter second number</string>
+    <string name="btn_text">Calculate</string>
+    <string name="main_activity_title">Calculator</string>
+    <string name="result_activity_title">Result</string>
+    <string name="result">..</string>
+    <string name="empty" />
+    <string-array name="Operations">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
